@@ -1,0 +1,63 @@
+[2025-05-11 20:55:42] === Start Game ===
+[2025-05-11 20:55:42] Character Hero appear
+[2025-05-11 20:55:42] Character Goblin appear
+[2025-05-11 20:55:42] Character Skeleton appear
+[2025-05-11 20:55:42] Character Dragon appear
+[2025-05-11 20:55:42] 
+=== New Battle ===
+[2025-05-11 20:55:42] Goblin get 13 damage
+[2025-05-11 20:55:42] Hero attack Goblin to 13 damage
+[2025-05-11 20:55:42] Hero get 5 damage
+[2025-05-11 20:55:42] Goblin Attack to 5 damage
+[2025-05-11 20:55:43] Goblin get 13 damage
+[2025-05-11 20:55:43] Hero attack Goblin to 13 damage
+[2025-05-11 20:55:43] Hero get 5 damage
+[2025-05-11 20:55:43] Goblin Attack to 5 damage
+[2025-05-11 20:55:44] Goblin get 13 damage
+[2025-05-11 20:55:44] Hero attack Goblin to 13 damage
+[2025-05-11 20:55:44] Goblin killed
+[2025-05-11 20:55:44] Hero heal 20 hp
+[2025-05-11 20:55:44] Hero is haling
+[2025-05-11 20:55:44] 
+=== New Battle ===
+[2025-05-11 20:55:44] Skeleton get 10 damage
+[2025-05-11 20:55:44] Hero attack Skeleton to 10 damage
+[2025-05-11 20:55:44] Hero get 8 damage
+[2025-05-11 20:55:44] Skeleton Attack to 8 damage
+[2025-05-11 20:55:45] Skeleton get 10 damage
+[2025-05-11 20:55:45] Hero attack Skeleton to 10 damage
+[2025-05-11 20:55:45] Hero get 8 damage
+[2025-05-11 20:55:45] Skeleton Attack to 8 damage
+[2025-05-11 20:55:46] Skeleton get 10 damage
+[2025-05-11 20:55:46] Hero attack Skeleton to 10 damage
+[2025-05-11 20:55:46] Hero get 8 damage
+[2025-05-11 20:55:46] Skeleton Attack to 8 damage
+[2025-05-11 20:55:47] Skeleton get 10 damage
+[2025-05-11 20:55:47] Hero attack Skeleton to 10 damage
+[2025-05-11 20:55:47] Skeleton killed
+[2025-05-11 20:55:47] Hero heal 20 hp
+[2025-05-11 20:55:47] Hero is haling
+[2025-05-11 20:55:47] 
+=== New Battle ===
+[2025-05-11 20:55:47] Dragon get 5 damage
+[2025-05-11 20:55:47] Hero attack Dragon to 5 damage
+[2025-05-11 20:55:47] Hero get 20 damage
+[2025-05-11 20:55:47] Dragon Attack to 20 damage
+[2025-05-11 20:55:48] Dragon get 5 damage
+[2025-05-11 20:55:48] Hero attack Dragon to 5 damage
+[2025-05-11 20:55:48] Hero get 20 damage
+[2025-05-11 20:55:48] Dragon Attack to 20 damage
+[2025-05-11 20:55:49] Dragon get 5 damage
+[2025-05-11 20:55:49] Hero attack Dragon to 5 damage
+[2025-05-11 20:55:49] Hero get 20 damage
+[2025-05-11 20:55:49] Dragon Attack to 20 damage
+[2025-05-11 20:55:50] Dragon get 5 damage
+[2025-05-11 20:55:50] Hero attack Dragon to 5 damage
+[2025-05-11 20:55:50] Hero get 20 damage
+[2025-05-11 20:55:50] Dragon Attack to 20 damage
+[2025-05-11 20:55:51] Dragon get 5 damage
+[2025-05-11 20:55:51] Hero attack Dragon to 5 damage
+[2025-05-11 20:55:51] Hero get 20 damage
+[2025-05-11 20:55:51] Dragon Attack to 20 damage
+[2025-05-11 20:55:51] Hero is dead
+[2025-05-11 20:55:51] === End Game ===
